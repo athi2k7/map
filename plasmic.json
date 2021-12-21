@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -31,7 +31,8 @@
       "icons": [],
       "images": [],
       "indirect": true,
-      "codeComponents": []
+      "codeComponents": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "kjuFFTSZb8fanzCHT2C1jz",
@@ -1444,7 +1445,8 @@
         }
       ],
       "indirect": true,
-      "codeComponents": []
+      "codeComponents": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "vchhDpLmBjnFZg2EZxeLCc",
